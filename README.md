@@ -1,0 +1,1 @@
+This repo contains examples, solutions, try-it-out from the book The C programming by K&R.
